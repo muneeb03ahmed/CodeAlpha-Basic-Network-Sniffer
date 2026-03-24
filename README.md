@@ -35,7 +35,6 @@ Backend:
 Clone Repository:
 
 git clone https://github.com/muneeb03ahmed/CodeAlpha-Basic-Network-Sniffer.git 
-cd basic-network-sniffer  
 
 ---
 
