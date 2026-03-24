@@ -11,7 +11,7 @@ A full-stack network packet monitoring system that captures live network traffic
 - Identify protocols (TCP, UDP, Others)  
 - Extract packet payload (limited preview)  
 - Interactive dashboard UI  
-- Fast frontend built with Vite + React + TypeScript  
+- Fast frontend built with python + Vite + React + TypeScript  
 - Clean UI using Tailwind CSS  
 
 ---
@@ -54,8 +54,7 @@ http://localhost:8080/
 
 python -m venv venv  
 venv\Scripts\activate  
-pip install scapy  
-python sniffer.py  
+pip install scapy    
 
 ---
 
