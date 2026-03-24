@@ -1,4 +1,4 @@
-# 🛡️ Basic Network Sniffer Dashboard
+# 🛡️ Basic Network Sniffer
 
 A full-stack network packet monitoring system that captures live network traffic and visualizes it through a modern web dashboard.
 
@@ -34,7 +34,7 @@ Backend:
 
 Clone Repository:
 
-git clone https://github.com/your-username/basic-network-sniffer.git  
+git clone https://github.com/muneeb03ahmed/CodeAlpha-Basic-Network-Sniffer.git 
 cd basic-network-sniffer  
 
 ---
